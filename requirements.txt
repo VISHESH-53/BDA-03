@@ -1,5 +1,8 @@
+
 streamlit
 pandas
 plotly
 textblob
-pymongo
+pymongo[srv]
+dnspython
+certifi
